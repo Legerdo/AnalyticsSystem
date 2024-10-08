@@ -1,0 +1,21 @@
+{
+  "name": "com.legeodo.analyticssystem",
+  "version": "1.0.0",
+  "displayName": "Analytics System",
+  "dependencies": {},
+  "author": {
+    "name": "Legeodo"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Legerdo/AnalyticsSystem.git",
+    "revision": "main"
+  },
+  "samples":
+  [
+      {
+          "displayName": "Demo",
+          "path": "Samples~/Demo"
+      }
+  ]  
+}
